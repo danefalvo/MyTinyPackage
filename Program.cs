@@ -6,7 +6,7 @@ namespace MyTinyPackage
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Number 3 New 3");
+            Console.WriteLine("Hello World!R igh as dasd");
         }
     }
 }
